@@ -32,7 +32,3 @@ I'm open to collaborating on innovative projects related to:
 I enjoy tackling complex problems and finding efficient solutions through code. My passion lies in continuous learning and exploring the latest advancements in technology.
 
 ---
-
-This is a special repository because its `README.md` (this file) appears on your GitHub profile.
-
-You can click the Preview link to take a look at your changes.
